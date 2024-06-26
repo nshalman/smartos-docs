@@ -123,7 +123,7 @@ are also deleted.
     [`sharemgr(8)`][sharemgr-8] for additional options.
     If that command fails, try running `sharemgr create -P smb smb` and then try again.
 
-13. Test with a CIFS client
+12. Test with a CIFS client
 
 [sharemgr-8]: https://smartos.org/man/8/sharemgr
 
